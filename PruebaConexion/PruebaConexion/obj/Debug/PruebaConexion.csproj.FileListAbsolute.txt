@@ -1,0 +1,8 @@
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.csproj.GenerateResource.Cache
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\bin\Debug\PruebaConexion.exe
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\bin\Debug\PruebaConexion.pdb
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.exe
+C:\Users\Matias\Documents\Visual Studio 2008\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.pdb
